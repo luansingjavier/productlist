@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Cheeseburger",
+    "description": "A classic cheeseburger with a juicy beef patty, cheese, lettuce, tomato, and mayo on a sesame seed bun.",
+    "price": 5.99,
+    "type": "Burger",
+    "ingredients": [
+      {
+        "name": "Beef patty",
+        "uom": "1/4 lb",
+        "quantity": 1,
+        "description": "Juicy beef patty seasoned and grilled to perfection."
+      },
+      {
+        "name": "Cheese slice",
+        "uom": "1 slice",
+        "quantity": 1,
+        "description": "A slice of your choice of cheese."
+      },
+      {
+        "name": "Lettuce",
+        "uom": "1 leaf",
+        "quantity": 2,
+        "description": "Fresh, crisp lettuce leaves."
+      },
+      {
+        "name": "Tomato slice",
+        "uom": "1 slice",
+        "quantity": 2,
+        "description": "Thin tomato slices for a burst of flavor."
+      },
+      {
+        "name": "Mayonnaise",
+        "uom": "1 tbsp",
+        "quantity": 1,
+        "description": "Creamy mayonnaise for that extra kick."
+      },
+      {
+        "name": "Sesame seed bun",
+        "uom": "1",
+        "quantity": 1,
+        "description": "A fresh, toasted sesame seed bun."
+      }
+    ]
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "A Caesar salad with fresh romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+    "price": 8.99,
+    "type": "Salad",
+    "ingredients": [
+      {
+        "name": "Romaine lettuce",
+        "uom": "1 cup",
+        "quantity": 2,
+        "description": "Crisp and fresh romaine lettuce leaves."
+      },
+      {
+        "name": "Croutons",
+        "uom": "1/4 cup",
+        "quantity": 1,
+        "description": "Crunchy croutons for added texture."
+      },
+      {
+        "name": "Parmesan cheese",
+        "uom": "2 tbsp",
+        "quantity": 1,
+        "description": "Grated parmesan cheese for a savory kick."
+      },
+      {
+        "name": "Caesar dressing",
+        "uom": "2 tbsp",
+        "quantity": 1,
+        "description": "Creamy and zesty Caesar dressing."
+      }
+    ]
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "description": "Spaghetti pasta served with a rich Bolognese sauce made from ground beef, tomatoes, and spices.",
+    "price": 10.99,
+    "type": "Pasta",
+    "ingredients": [
+      {
+        "name": "Spaghetti pasta",
+        "uom": "8 oz",
+        "quantity": 1,
+        "description": "Al dente spaghetti pasta."
+      },
+      {
+        "name": "Ground beef",
+        "uom": "4 oz",
+        "quantity": 1,
+        "description": "Seasoned ground beef cooked to perfection."
+      },
+      {
+        "name": "Tomatoes",
+        "uom": "1 cup",
+        "quantity": 2,
+        "description": "Fresh tomatoes for a rich and tangy sauce."
+      },
+      {
+        "name": "Spices",
+        "uom": "various",
+        "quantity": 1,
+        "description": "A blend of spices for a flavorful Bolognese sauce."
+      }
+    ]
+  },
+  {
+    "name": "Fruit Smoothie",
+    "description": "A refreshing fruit smoothie with a blend of strawberries, bananas, and yogurt.",
+    "price": 4.99,
+    "type": "Smoothie",
+    "ingredients": [
+      {
+        "name": "Strawberries",
+        "uom": "1 cup",
+        "quantity": 1,
+        "description": "Ripe and sweet strawberries."
+      },
+      {
+        "name": "Bananas",
+        "uom": "1",
+        "quantity": 1,
+        "description": "Fresh bananas for creaminess and sweetness."
+      },
+      {
+        "name": "Yogurt",
+        "uom": "6 oz",
+        "quantity": 1,
+        "description": "Creamy yogurt for a smooth texture."
+      }
+    ]
+  },
+  {
+    "name": "Margarita Pizza",
+    "description": "A classic Margarita pizza with a thin crust, fresh tomatoes, mozzarella cheese, basil, and olive oil.",
+    "price": 9.99,
+    "type": "Pizza",
+    "ingredients": [
+      {
+        "name": "Pizza dough",
+        "uom": "1",
+        "quantity": 1,
+        "description": "Thin and crispy pizza dough."
+      },
+      {
+        "name": "Tomatoes",
+        "uom": "2",
+        "quantity": 2,
+        "description": "Sliced tomatoes for a fresh taste."
+      },
+      {
+        "name": "Mozzarella cheese",
+        "uom": "4 oz",
+        "quantity": 1,
+        "description": "Melty mozzarella cheese."
+      },
+      {
+        "name": "Fresh basil leaves",
+        "uom": "4-6 leaves",
+        "quantity": 1,
+        "description": "Aromatic fresh basil leaves."
+      },
+      {
+        "name": "Olive oil",
+        "uom": "1 tbsp",
+        "quantity": 1,
+        "description": "High-quality olive oil drizzle."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Alfredo",
+    "description": "Creamy chicken Alfredo pasta with tender chicken breast, fettuccine, and a rich Alfredo sauce.",
+    "price": 11.99,
+    "type": "Pasta",
+    "ingredients": [
+      {
+        "name": "Fettuccine pasta",
+        "uom": "8 oz",
+        "quantity": 1,
+        "description": "Smooth and wide fettuccine pasta."
+      },
+      {
+        "name": "Chicken breast",
+        "uom": "6 oz",
+        "quantity": 1,
+        "description": "Tender and seasoned chicken breast."
+      },
+      {
+        "name": "Alfredo sauce",
+        "uom": "1 cup",
+        "quantity": 1,
+        "description": "Rich and creamy Alfredo sauce."
+      }
+    ]
+  }
+]
